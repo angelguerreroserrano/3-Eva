@@ -1,0 +1,10 @@
+ESTRUCTURA DE LA CLASE
+    - atributos
+    - métodos
+        - constructor
+        - setter/getter
+        - metodos
+POO
+    - encapsulación --> setter/getter
+    - herencia
+    - polifoormismo --> métodos con distinto nombre
